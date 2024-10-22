@@ -1,0 +1,319 @@
+{
+  "ciudades": [
+    {
+      "nombre": "Salto",
+      "propiedades": [
+        {
+          "precio": "98.700",
+          "tamano": "50",
+          "habitaciones": 2,
+          "link": "https://www.infocasas.com.uy/proyectos/altos-de-fatima/15016892"
+        },
+        {
+          "precio": "100.000",
+          "tamano": "139",
+          "habitaciones": 2,
+          "link": "https://www.infocasas.com.uy/excelente-oportunidad-bajo-de-precio-venta-casa-centro-salto-familia-o-empresa/190694805"
+        },
+        {
+          "precio": "197.000",
+          "tamano": "238",
+          "habitaciones": 5,
+          "link": "https://www.infocasas.com.uy/venta-de-casa-3-propiedades-en-salto-uruguay/190382564"
+        },
+        {
+          "precio": "55.000",
+          "tamano": "130",
+          "habitaciones": 3,
+          "link": "https://www.infocasas.com.uy/venta-de-casa-3-dormitorios-en-ceibal-salto/190940792"
+        },
+        {
+          "precio": "81.750",
+          "tamano": "85",
+          "habitaciones": 2,
+          "link": "https://www.infocasas.com.uy/venta-casa-dos-dormitorios-zona-cerro/191150380"
+        },
+        {
+          "precio": "2.503.200",
+          "tamano": null,
+          "habitaciones": null,
+          "link": "https://www.infocasas.com.uy/campo-en-venta-en-salto-5960-has-ref-4477/191551051"
+        },
+        {
+          "precio": "150.000",
+          "tamano": "150",
+          "habitaciones": 2,
+          "link": "https://www.infocasas.com.uy/casa-con-2-dormitorios-y-casa-de-huspedes/190079353"
+        },
+        {
+          "precio": "136.500",
+          "tamano": "64",
+          "habitaciones": 3,
+          "link": "https://www.infocasas.com.uy/proyectos/altos-de-fatima/15016892"
+        },
+        {
+          "precio": "210.000",
+          "tamano": "140",
+          "habitaciones": 3,
+          "link": "https://www.infocasas.com.uy/arenitas-blancas-hermosa-casa-de-3-dormitorios-a-la-venta/190943014"
+        },
+        {
+          "precio": "249.000",
+          "tamano": "167",
+          "habitaciones": 4,
+          "link": "https://www.infocasas.com.uy/casa-3-dormitorios/190626928"
+        },
+        {
+          "precio": "79.000",
+          "tamano": "71",
+          "habitaciones": null,
+          "link": "https://www.infocasas.com.uy/venta-apartamento-4-dormitorios-en-dos-naciones-salto/190995927"
+        },
+        {
+          "precio": "2.700",
+          "tamano": null,
+          "habitaciones": null,
+          "link": "https://www.infocasas.com.uy/campo-en-venta-en-salto-ref-8771/190324098"
+        },
+        {
+          "precio": "160.000",
+          "tamano": "67",
+          "habitaciones": 2,
+          "link": "https://www.infocasas.com.uy/casa-a-la-venta-2-dormitorios-en-salto/191547506"
+        },
+        {
+          "precio": "388.000",
+          "tamano": null,
+          "habitaciones": null,
+          "link": "https://www.infocasas.com.uy/campo-en-venta-en-salto-970-has-ref-4347/191550998"
+        },
+        {
+          "precio": "78.750",
+          "tamano": "35",
+          "habitaciones": 1,
+          "link": "https://www.infocasas.com.uy/proyectos/altos-de-fatima/15016892"
+        },
+        {
+          "precio": "498.000",
+          "tamano": "1715",
+          "habitaciones": null,
+          "link": "https://www.infocasas.com.uy/excelente-y-nica-oportunidad-para-inversores/191070504"
+        },
+        {
+          "precio": "80.000",
+          "tamano": "80",
+          "habitaciones": 3,
+          "link": "https://www.infocasas.com.uy/venta-de-casa-3-dormitorios-en-ciudad-de-salto/186321839"
+        },
+        {
+          "precio": "130.000",
+          "tamano": "118",
+          "habitaciones": 3,
+          "link": "https://www.infocasas.com.uy/casa-con-patio-y-garage-a-cuadras-del-centro/187486629"
+        },
+        {
+          "precio": "110.000",
+          "tamano": "80",
+          "habitaciones": 2,
+          "link": "https://www.infocasas.com.uy/apartamento-dos-dormitorios/189824643"
+        },
+        {
+          "precio": "130.000",
+          "tamano": "50",
+          "habitaciones": 2,
+          "link": "https://www.infocasas.com.uy/apartamento-de-2-dormitorios-gran-living-comedor/190347950"
+        },
+        {
+          "precio": "91.000",
+          "tamano": "91",
+          "habitaciones": 4,
+          "link": "https://www.infocasas.com.uy/venta-de-casa-4-dormitorios-salto/190940791"
+        }
+      ]
+    },
+    {
+      "nombre": "Flores",
+      "propiedades": [
+        {
+          "precio": "185.000",
+          "tamano": "102",
+          "habitaciones": 3,
+          "link": "https://www.infocasas.com.uy/alquiler-anual-y-o-venta-apartamento-trinidad-flores/191482140"
+        },
+        {
+          "precio": "149.500",
+          "tamano": null,
+          "habitaciones": 3,
+          "link": "https://www.infocasas.com.uy/muy-lindo-apartamento-en-venta-frente-a-la-plaza-en-trinidad-flores/190672853"
+        },
+        {
+          "precio": "275.000",
+          "tamano": "200",
+          "habitaciones": 2,
+          "link": "https://www.infocasas.com.uy/barrio-privado-los-agaves/188966834"
+        },
+        {
+          "precio": "Consultar",
+          "tamano": "160",
+          "habitaciones": 3,
+          "link": "https://www.infocasas.com.uy/dueo-vende/190207997"
+        },
+        {
+          "precio": "90.000",
+          "tamano": "130",
+          "habitaciones": 3,
+          "link": "https://www.infocasas.com.uy/venta-imperdible-oportunidad-casa-3-dormitorio-y-parrillero-en-trinidad-acepta-banco/190950406"
+        },
+        {
+          "precio": "350.000",
+          "tamano": "320",
+          "habitaciones": 3,
+          "link": "https://www.infocasas.com.uy/venta-casa-excelente-calidad-3-dormitorios-trinidad-flores/190582895"
+        },
+        {
+          "precio": "210.000",
+          "tamano": "106",
+          "habitaciones": 4,
+          "link": "https://www.infocasas.com.uy/venta-de-apartamento-flores-trinidad/190303875"
+        },
+        {
+          "precio": "3.140.000",
+          "tamano": null,
+          "habitaciones": null,
+          "link": "https://www.infocasas.com.uy/campo-ganadero/191122200"
+        }
+      ]
+    },
+    {
+      "nombre": "Artigas",
+      "propiedades": [
+        {
+          "precio": "130.000",
+          "tamano": "216",
+          "habitaciones": 3,
+          "link": "https://www.infocasas.com.uy/casa-de-tres-dormitorio-en-venta-en-centro-de-ciudad-de-artigas/191277371"
+        },
+        {
+          "precio": "1.000.000",
+          "tamano": null,
+          "habitaciones": null,
+          "link": "https://www.infocasas.com.uy/campo-ganadero-invernador-en-artigas-uruguay/190960077"
+        },
+        {
+          "precio": "215.000",
+          "tamano": "134",
+          "habitaciones": 3,
+          "link": "https://www.infocasas.com.uy/venta-de-casa-3-dormitorios-y-patio-en-barrio-zorrilla-artigas/190543336"
+        },
+        {
+          "precio": "250.000",
+          "tamano": "244",
+          "habitaciones": 3,
+          "link": "https://www.infocasas.com.uy/venta-casa-3-dormitorios-en-centro-de-artigas/190605365"
+        },
+        {
+          "precio": "535.000",
+          "tamano": "510",
+          "habitaciones": 4,
+          "link": "https://www.infocasas.com.uy/excelente-casa-con-piscina-en-centro-de-artigas/190431524"
+        },
+        {
+          "precio": "135.000",
+          "tamano": "145",
+          "habitaciones": 2,
+          "link": "https://www.infocasas.com.uy/excelente-casa-de-dos-dormitorios-en-centro-de-artigas/190942659"
+        },
+        {
+          "precio": "78.000",
+          "tamano": "64",
+          "habitaciones": 2,
+          "link": "https://www.infocasas.com.uy/venta-excelente-casa-barrio-zorrilla-en-artigas-para-reciclar/190703077"
+        },
+        {
+          "precio": "800.000",
+          "tamano": "80",
+          "habitaciones": null,
+          "link": "https://www.infocasas.com.uy/se-vende-campo-de-de-400has-en-artigas-prox-ciudad/190852162"
+        },
+        {
+          "precio": "250.000",
+          "tamano": "120",
+          "habitaciones": 2,
+          "link": "https://www.infocasas.com.uy/test01/191526720"
+        },
+        {
+          "precio": "189.000",
+          "tamano": "202",
+          "habitaciones": 3,
+          "link": "https://www.infocasas.com.uy/venta-casa-2-dormitorios-y-apartamento-1-dormitorio-en-centro-de-artigas/190644661"
+        },
+        {
+          "precio": "3.500.000",
+          "tamano": null,
+          "habitaciones": null,
+          "link": "https://www.infocasas.com.uy/campo-ganadero-912ha-en-costa-del-cuareim-artigas/190960630"
+        },
+        {
+          "precio": "102.000",
+          "tamano": "200",
+          "habitaciones": 4,
+          "link": "https://www.infocasas.com.uy/morelli-y-silvestre-perez-sn-unin/187602126"
+        },
+        {
+          "precio": "49.800",
+          "tamano": "72",
+          "habitaciones": 2,
+          "link": "https://www.infocasas.com.uy/venta-de-casa-de-dos-dormitorios-en-artigas/190846413"
+        },
+        {
+          "precio": "2.062.500",
+          "tamano": null,
+          "habitaciones": null,
+          "link": "https://www.infocasas.com.uy/se-vende-establecimiento-de-825-has-en-artigas/190960640"
+        },
+        {
+          "precio": "1.954.000",
+          "tamano": null,
+          "habitaciones": null,
+          "link": "https://www.infocasas.com.uy/campo-ganadero-en-artigas-977ha/190960406"
+        },
+        {
+          "precio": "3.090.000",
+          "tamano": null,
+          "habitaciones": null,
+          "link": "https://www.infocasas.com.uy/venta-o-arriendo-campo-en-artigas/190986292"
+        },
+        {
+          "precio": "650.000",
+          "tamano": "578",
+          "habitaciones": null,
+          "link": "https://www.infocasas.com.uy/hotel-en-actividad-en-bella-unin-artigas/190574396"
+        },
+        {
+          "precio": "60.000",
+          "tamano": "70",
+          "habitaciones": null,
+          "link": "https://www.infocasas.com.uy/venta-casa-y-terreno-camino-piedra-pintada-5-ambientes-cochera/187537134"
+        },
+        {
+          "precio": "1.300.000",
+          "tamano": null,
+          "habitaciones": null,
+          "link": "https://www.infocasas.com.uy/campo-en-venta-en-artigas-6260-has-ref-4481/191551097"
+        },
+        {
+          "precio": "575.455",
+          "tamano": "20",
+          "habitaciones": null,
+          "link": "https://www.infocasas.com.uy/hdjdhdhfh/188832236"
+        },
+        {
+          "precio": "1.000.000",
+          "tamano": null,
+          "habitaciones": null,
+          "link": "https://www.infocasas.com.uy/muy-buen-campo-con-ic-100-de-promedio-cuenta-con-todas-las-instalaciones-para-trabajar-artigas-uruguay/190960632"
+        }
+      ]
+    }
+  ]
+}
